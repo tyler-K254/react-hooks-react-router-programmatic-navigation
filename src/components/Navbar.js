@@ -53,7 +53,7 @@ function Navbar({ setIsLoggedIn }) {
       >
         Login
       </NavLink>
-      <button onClick={handleLogout}>Logout</button>
+      <button onClick={handleLogout}>Log out</button>
     </div>
   );
 }
